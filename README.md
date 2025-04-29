@@ -12,6 +12,11 @@ This tool allows you to use ChatGpt-4 for FREE via hidden path.
     ```bash
     git clone https://github.com/fozzy-developer/gpt-4-free.git
     ```
+    
+2. Clone the repository:
+    ```bash
+    cd gpt-4-free
+    ```
 
 2. Install the required dependencies:
     ```bash
